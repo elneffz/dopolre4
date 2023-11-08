@@ -1,0 +1,26 @@
+{
+  "name": "Glenn Goodwin",
+  "age": 29,
+  "address": {
+    "street": "Lobviz Park",
+    "city": "Itamenus",
+    "state": "MS",
+    "zip": "34804"
+  },
+  "contact": {
+    "phone": "(632) 603-4542",
+    "servicePhone": "800962525"
+  },
+  "birthday": "1997-10-10T20:40:54.085Z",
+  "ip": "201.202.224.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Oha toomi noworin ujavel tegla zah rumtevi ekejel icrelsen aguhap bornakjaj felum. Zizitav ruf nicak ce oz wem zobveko ic bivroz sadpibew eja deknanu haobaju pulukzal rougpem. Agobegse ufze gehif giohife ta tazgotme vite modlefor lapev linofo odzo lu ic rokhuzis hanebloh.",
+    "bio": "Etu micucwul ebilezi da la kigpodip zepribne gu vidda caru jewigut wis nolsuwad nab muj nolonun. Buig gusehho sek mihjus diaw tive puze ud ru tioha tabufa ur culifa cegab. Beogle vewige cepna ubpowap fi neeve juferoba ta hun ki rulisa no ipefu."
+  },
+  "apiKey": "801fa3742fa04042248b5758f64bf51ca9e9d0bd06632005171b0a9bbb447136",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
