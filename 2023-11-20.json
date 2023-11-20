@@ -1,0 +1,26 @@
+{
+  "name": "Josie Wheeler",
+  "age": 64,
+  "address": {
+    "street": "Vuzsa Plaza",
+    "city": "Disegasom",
+    "state": "NC",
+    "zip": "92424"
+  },
+  "contact": {
+    "phone": "(927) 419-9601",
+    "servicePhone": "800743116"
+  },
+  "birthday": "1998-05-03T16:42:56.801Z",
+  "ip": "54.35.121.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Muf acpucidi moz sagita ancuf sotcezvo wetamvu vacriecu geuka sa so zowwo ni cufheg. Uguhicdec dej vorfaw ge nudhufib azifik obotuab atwe miwmevuvu momhohger urhe fuvzotoso uninebu zacepu zaddi nakcosil kinjutuja. De vak momilezit vigjal zilalhek do remuda biptoro gam doiciwom rigka udri etezatdic. Bafwufki bodi go cekonewep nofdi rufzozmoh madottef tobwopwe astovoma uwa zu ru.",
+    "bio": "Pec umuzi laluzti basewbu ol to omapuj vav di tanoob ol ri. Nez jeta wugmos or ekruhit ewuawi ekipofar mi on zi barumo ihowo re. Atomi jihirsi joeg an pav kupow he or sabsit ijenuznad ukadigu seeta vornurad giworwuj ag. Lisib ti dofit ego bukowunuv oj fifezcid nitas zu hu da etko ukkaow. Vezokzu rup vokokegek fikla zivlovduf zocisoj zojica jeuhpuj di bov rohota boswon nitog sa mo us gezmo. Sinurbod acimo hah waiz doge we ibdowga gev neniog pi gupbu serid novi radizeur ri lep mim."
+  },
+  "apiKey": "511d02be5c75ae9b61615a205ee4b3d8b9eeb0f0576b68a98577f57297434732",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
