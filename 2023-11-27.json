@@ -1,0 +1,26 @@
+{
+  "name": "Anne Gomez",
+  "age": 27,
+  "address": {
+    "street": "Doec Extension",
+    "city": "Dekapmod",
+    "state": "SD",
+    "zip": "51585"
+  },
+  "contact": {
+    "phone": "(202) 337-3893",
+    "servicePhone": "800831293"
+  },
+  "birthday": "1960-09-27T18:55:23.742Z",
+  "ip": "15.46.171.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Tu hij rarve bara larifak kunamen felra lidahwa lulumelu uruone gujav oco hir avefebo. Wotikuic if mumulumap vi tu bi rod tu hepo mas fuivku dehi tar davej wilagfo tailju kircevvum. Jegvo kozol debojze sorrep nepkuro rok gicmuznu toaji fikuje gioposap fu neg.",
+    "bio": "Imfa citzikha kezo taapi umke ugetas fij iddisna rutajzu riwilcig vujve obo cofbuh fonoko deofvu budazbis. Zijwe wo tu cija vaha regzo wedif lefjeb saf hepbah vahebiw cenige vufusfuj dat mickop bofasca tez. Bucmah buriti ezmamo zidgactug nofe ukiveof zur udwew cuzji donmenfu juwlifedi bendo rehi afipaufu cahaw. Tu zaijca ceka ajijoeh rav zil duez gildovo egiup hefkosfig lisu gonhucaj ozudukom cebli kawzus. Kezuk pomiv nodguiv su loz odacaeda geacahu ofaraj nire se tocodazo dug us du to few uza dofaf. Tig nurkok wocdocbi ike cel hi cet savo larafan iz si vura tasurviz."
+  },
+  "apiKey": "a8ec8ed1402f4e5a48bfc3a1b35259766d13f244e43995ce65ff6541dfc96c23",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
