@@ -1,0 +1,26 @@
+{
+  "name": "Gregory Riley",
+  "age": 65,
+  "address": {
+    "street": "Seraz Plaza",
+    "city": "Udzubej",
+    "state": "AZ",
+    "zip": "92652"
+  },
+  "contact": {
+    "phone": "(579) 397-2210",
+    "servicePhone": "800495378"
+  },
+  "birthday": "1995-09-27T21:30:58.355Z",
+  "ip": "167.122.237.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Eceteb gugimer itnad uhla ilo ofutat olnod wijig waclocek lu gocili to iku ja zik. Ke hochezic sid judezip odzi ziwwor toaj guvcotor tavfisgek zevami men hicerbu nelahweb ha pab owotem wa le. Kapez mev ikuutoulo go duba ebu jek me fanetadi perla amoikut suci.",
+    "bio": "Araguke dohrijog parab fepuwu jurduop re rinecri hirupsek obope cosbi gohhizej hote bam cofeni si arnutop. Co va hukwuar joce sur nidubni lin ujhoval nur fuwe nomha oshi digmedco meh. Ow fugirikup ne kunifaf alobac dineru len ocwodre fedimut secwo bu id oco ivu to lovegfor."
+  },
+  "apiKey": "2b5c99b08f04690e7f84e46b945b7be14674eda2e90d29e5236ca28fa80ef249",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
