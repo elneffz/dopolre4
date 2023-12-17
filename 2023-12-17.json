@@ -1,0 +1,26 @@
+{
+  "name": "Kate Flores",
+  "age": 36,
+  "address": {
+    "street": "Gidji Boulevard",
+    "city": "Huntoddez",
+    "state": "ND",
+    "zip": "97210"
+  },
+  "contact": {
+    "phone": "(424) 888-8085",
+    "servicePhone": "800285716"
+  },
+  "birthday": "2002-01-11T08:50:13.405Z",
+  "ip": "73.110.193.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Awliz lowzef ga pi tihizre moodaanu ijvi ipo runov rizaczom zi zewzun ibepo otsetpi hu dugrin munvi ko. Fal ih recuge ija ke ipuhan hus bajfegmed wawsed wen johcaeso esuim. Lev sedvi fejlafbud akomicno kuoz jikpi upu kibo adi acotuire jupbup ranom rocsomvu mat urirazup. Uhreopi nivjemcu vishivo ji nohej pikof upzi oriri eho towfa gihak wok kuskildav. Tefi suniti sisbiwo reile vofebvi ow lihujja zubatbuc ihraf nabam dov kiinlur gazciz zaflo jemluf peile. Uhkaw ozo gegujeemu rofwulbe se pottofiwi er zap pammogiv se fato evefav ipnaj.",
+    "bio": "Uz wetmev ofaog gacgugu safpo mumivo lo ibcoclu tono dipcebon ebimiwri eculovjug giwwifvel edwim rapen uffagfi ivi gihal. Zale pubgedu mini ler tane koncaw nid nezihe peni guccedce onmutob zocsat moiveb zitzelov uzranom. Lafemdir zitwetja jupeb peh idizuc raroj goj luciw gitki imcul fec megavap ocubum omu jeje ci."
+  },
+  "apiKey": "678695ebeb87b89601342351929a10453fb6786ec435a02295fb9857a8f16cef",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
