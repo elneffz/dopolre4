@@ -1,0 +1,26 @@
+{
+  "name": "Shawn Reese",
+  "age": 47,
+  "address": {
+    "street": "Adiigo Court",
+    "city": "Hustiuso",
+    "state": "AK",
+    "zip": "55815"
+  },
+  "contact": {
+    "phone": "(673) 501-9582",
+    "servicePhone": "800182594"
+  },
+  "birthday": "1968-11-01T22:26:28.570Z",
+  "ip": "85.68.237.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Codza razod avizudef wo tajuimo ta reruc cutke be gocbojwu ju hovvoronu doj javaufa. De toldazti miba po ji giaf cecte ifauv biris jopijlog pizmohahe imho owlesgur. Nigpevsek bot vom baj na datalisec rojpus lob jakvoj biswi kisewre anawo wivocu cizebkev.",
+    "bio": "Jujgugij be rufnob buzsiviz opo iz siacofe guvze hagip mira za asafibuz hepuva lit pam jogurhok esacak jit. Deposam dobuba gumazed pudcuda fuudone diip saaco bocuw neniswaw ofefu bi re gu. Ezujipawu wu ge nahfemes gaize tow relwuogo kulworule bijpel acibar ojibfof ho voazan rozvuh he vettopaku."
+  },
+  "apiKey": "843b2253f238860d292b56b377c6522ce09128847af78a697b8fe8d048732ab6",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
