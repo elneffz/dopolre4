@@ -1,0 +1,26 @@
+{
+  "name": "Julian Santiago",
+  "age": 51,
+  "address": {
+    "street": "Dejwan Mill",
+    "city": "Tecaca",
+    "state": "DC",
+    "zip": "72184"
+  },
+  "contact": {
+    "phone": "(807) 492-6550",
+    "servicePhone": "800588562"
+  },
+  "birthday": "1964-05-21T19:42:18.339Z",
+  "ip": "33.225.215.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Ad aci ceddi kovuv wakvovso mikabju tekode wozkit uto laove use rihju. Cuhdiv nedoam mu hurkeddev kalegom titfuraf litiso iruahodej ceefalun cufun ban itjun etu govebewi tahve olalaotu icdekbek riap. Tirita larcujdar livkujbil wazu evajpop culziv hile agpu utoboc muwivbi budbon rocno imugiv nahba kumzu kumeh lulalu. Parledeza fubitata femoeke sod diiki kidik darge rocu up tem cec ikoarerup civahiki asa vesuafu titner dutemeri.",
+    "bio": "Kavjotuwi ab ibafeb fer duzib mafzi befgecbi impomem duf garral puhte pi ohono. Vodabrud jovwow wacaflep lowisi boilofi moci utugedso ewe wu ne otamikuh ude. Wazfumu lozmamrof ehahaz sudajtup po utesab ipcat janik nol wifoege tebe jopluale lewlaw hoh ko urap awi gik."
+  },
+  "apiKey": "f351e5814c1728fa6943b01569e3ce6d723db3f58298cd51da2fbbbcb9c8f3fb",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
