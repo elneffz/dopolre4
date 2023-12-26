@@ -1,0 +1,26 @@
+{
+  "name": "Alta McGee",
+  "age": 52,
+  "address": {
+    "street": "Ekhu Plaza",
+    "city": "Sirgaob",
+    "state": "SD",
+    "zip": "31827"
+  },
+  "contact": {
+    "phone": "(325) 365-1566",
+    "servicePhone": "800162411"
+  },
+  "birthday": "1989-11-28T09:38:45.249Z",
+  "ip": "196.38.156.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Ipnil omib ze zi emcovo wusosmo ne apoim vike guh jubuthig ga anefawi banzamat uc sifnuhri inaroc. Peciv eke lop bubtoruw fijhojan medmo oriru mifozeja vewvutmob imlin coze amoopu pedte toccozro. Tobhevu wivju wa uzo ah irfan amaho urusizja gapot pazotod caloz ibbesag lo.",
+    "bio": "Banim moruro tu vihasho uk raskim tuleg iz kog zoc delpakeji pe mutzag vap givi anic po juh. Sofafiv zosagi wes cekcimej en cosom eri zot mop ju zopjoc bi piem jocufi zavagefe mogdu. Ruvo tuolze zov zu savfehkif lafav ivwoje feivive ra futobka muubifah ti fe egde eta mod eppi feewo."
+  },
+  "apiKey": "ef12d965977d43277d34016208d6f4ea7d59ec8dc8af4bf17d6dff7c6e4c15eb",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
