@@ -1,0 +1,26 @@
+{
+  "name": "Elsie Poole",
+  "age": 31,
+  "address": {
+    "street": "Regike View",
+    "city": "Hutweswin",
+    "state": "AR",
+    "zip": "86102"
+  },
+  "contact": {
+    "phone": "(340) 578-7644",
+    "servicePhone": "800112288"
+  },
+  "birthday": "1962-04-07T22:21:39.653Z",
+  "ip": "231.39.208.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Egaeproj omavoh vil muzzi nuunive miwudug ciz wif bataroak doromni jiofu toese ogihu baf taev moso apiwoog omic. Nuled luje de juhiwgu go uvigomva ciput tamoji eb pu ci vufwovih cu hol ga. Te va juk hajebu zaj dishoj tekwi ri juhe newcimok ehoha le kibneho. Rid vokasur zuamke ge wepoj jinu rah wa ho paica jukco gobuse av teavhez.",
+    "bio": "Hageba loviv wemfevu ca dapim ewtu ufbi fawlevmo rup cul bekrece bahza agvu mo fumujec umomag. Nuatizaj amete davoh owibuwveh idegjul feku ijkez hiat bawzasju nuhifiz naj zeowo ate. Mah jiwa wuvmivbu soj kevle hivuk veskob lescupmo ci ziwefagu leb uwu ge nu setriofo cuk sedgit. Fehoep hif ugu mi helpes hijjiza hogic ten cas besefvog suksejwa len sutusog valrimdor papevcej jacab codekir. Temepot kizefi jovuhlaz su sap homzuka fectodom ba totpu war upi eso talo naghegep ruhbislil vaz zudidbon."
+  },
+  "apiKey": "2c1f53a2e212a0e726b3ac05091076f959930d1c74e71fe9bf09c75a1c787e26",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
