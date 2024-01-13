@@ -1,0 +1,26 @@
+{
+  "name": "Eric Larson",
+  "age": 52,
+  "address": {
+    "street": "Senag Highway",
+    "city": "Jelvinmew",
+    "state": "ND",
+    "zip": "43118"
+  },
+  "contact": {
+    "phone": "(309) 601-5479",
+    "servicePhone": "800843817"
+  },
+  "birthday": "1996-03-23T10:09:36.830Z",
+  "ip": "191.189.109.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Ze tiaw fiuku hokanmaw jazowi fi hi uljigcu foef katuf uhetukzuk gohwek ji tevitfem fi arjuwo wacun. Buktec nuwfuc cegsoj ga cophif zaputte ehedupi bepfejla pamalreb ma to un muw kono. Jaguver ema janucvi mevup sodum tu cojun fomamzut fejpo wamnog if ma is ridca tofre vaihi wodag. Koco turdenad pulir zo lamoc avepij giviis at ewepif retej fitva vais ura ke. Nim ib usuejo vo hawuwso ma amnu vemi se ga de ozemofip dadzo.",
+    "bio": "Hiv nib vihjapgig ipu hawgazdaz nu zenehri non doaz nawope pis le wa tigi ew. Ibmoc roplekime ali mufanki gah gu ma mamigpe du pikha uv zubnicani liibo zese gizatog. Magi hi ovikammu aw ti tid ewvazi cakniva jiz ne offeot iv gof oc."
+  },
+  "apiKey": "093d422fe58c2daac334c3515585b0cba5b146d31566e88063c2b566af5b84a8",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
