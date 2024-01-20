@@ -1,0 +1,26 @@
+{
+  "name": "Jeffrey Stone",
+  "age": 40,
+  "address": {
+    "street": "Norle Point",
+    "city": "Ciwwasda",
+    "state": "GA",
+    "zip": "07869"
+  },
+  "contact": {
+    "phone": "(911) 218-3786",
+    "servicePhone": "800323332"
+  },
+  "birthday": "1966-02-04T01:28:57.647Z",
+  "ip": "188.208.105.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Gi finri zetimtol ado okeafebev gucuwo wusopa mapgohuv ote etijiuhu lukvu hohin adauz oce. Tu bo kufjikgep dazra deopib fo fojpu etuupzo tiabi avsu humbuwzur boguker inso jizrut mitcaczij askomi. Depenni zioseumi ola ju lor za gofat munocugup zuegu dotuzda utuugu jozodis vi.",
+    "bio": "Kok peodo veiboec ja fidkam nimup gitfuhva ahetavaj callozap dajwerep pozde ar giej. Miohejod potvi zun ebozotlu ver biegmi lefta godloppir vuz vozolud pif da pepeze. Pihuver alu le vedzeg riddewih vimugza gew ewahi ibhoc hoakzec mawbos gigawug di ceroje safonifeh puho."
+  },
+  "apiKey": "8ce39f63ebc84100e69be6e687beaee0ac5d145d13e59f2b4007c8cab81c5b71",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
