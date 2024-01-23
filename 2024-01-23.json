@@ -1,0 +1,26 @@
+{
+  "name": "Chris Schmidt",
+  "age": 23,
+  "address": {
+    "street": "Gilji Pass",
+    "city": "Wabogoj",
+    "state": "VT",
+    "zip": "93646"
+  },
+  "contact": {
+    "phone": "(445) 559-9971",
+    "servicePhone": "800692375"
+  },
+  "birthday": "1972-03-25T04:04:47.984Z",
+  "ip": "172.86.139.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Howa josfaja do bamzi vup puagpok veipzu jomsijlu vol ujuwael sohsiw miz pi pimjo advaru. Bapoc kirima ocerac tacujifa vehep tahcasdu luburiru bip kojnerol ajudo se efve mawu fow. Dej vo ve ozi balotmi noketo keed ve rega nu sitoma ikozas wecocipi gibdap ugamin inobupgoc.",
+    "bio": "Jev gonvievu nuj ek etapav jug jagajpa obe sogtew puzre biocuibo modacih jer. Pivjip van fe filav azizi caguhli zavalaejo az ro icakufga mafa esmiwbub uftit judoruh hir vitkofu. Mok remonke tuduso moz ub sov fe nasonow nezjeuvo rikga fak ahgu eraenzi imo felcadig. Sumigi fat toihaez ogaes gacjooj woak rituh fukef ru tiw bawnocru duag omu guzakcos."
+  },
+  "apiKey": "7aacff1a255063b8c6ad437cbd66206bc5553ab9d3e6e08f2d1dd7e61ac9bf54",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
