@@ -1,0 +1,26 @@
+{
+  "name": "John Ramsey",
+  "age": 31,
+  "address": {
+    "street": "Nehos Heights",
+    "city": "Diagwov",
+    "state": "AZ",
+    "zip": "73981"
+  },
+  "contact": {
+    "phone": "(682) 648-7403",
+    "servicePhone": "800436839"
+  },
+  "birthday": "1963-06-17T17:19:15.712Z",
+  "ip": "77.119.104.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Is da rurjim sakuile uz babdilzi mawbegol re go juile no gotugi bocu sapfabu ha jok adsevap. Tonre vuverbe geuruvo juwuzlu vihzeh nuhbe bujcutape henutan sikeh guwetuz ite fa apsadir. Mojah fakop naw ri cujug vepzi zimpun loorpi wuko runo necasgu jihriwij gatbasvot rij far vu jubibcu.",
+    "bio": "Ku netta cojive daisu omovi iteunifot okenapi jihtej pu ve debimo he cunevte cewolla. Gi kericip gab awava udvaino zifloha zif giv weoro jas tieru pumazmuj. Omu edtat lerib vuocidi gihej boibra adiif bu kecpik monritcop ujvit erudak giwid sudtabif rijuj. Lon fiz ozfu map pipobuw adefe veuja biusze behlonper dalagosu unva us ro hagovke. Hu awe migcawap wagote demin jomi gujnak ju horipi fe negarugen vugomisef aka dikconav vu son."
+  },
+  "apiKey": "f953602326154be10cce148b4de2a7d9eef1c2c47ef45438ccbcbd949375d2ba",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
