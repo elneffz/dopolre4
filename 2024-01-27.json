@@ -1,0 +1,26 @@
+{
+  "name": "Roger Robbins",
+  "age": 38,
+  "address": {
+    "street": "Modbo Drive",
+    "city": "Lekete",
+    "state": "WA",
+    "zip": "95383"
+  },
+  "contact": {
+    "phone": "(263) 618-5585",
+    "servicePhone": "800999929"
+  },
+  "birthday": "1977-05-14T09:33:17.933Z",
+  "ip": "113.59.38.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Seiv mul osimimwet tidvi se nojgulel supucow arkeh numek dug dur tufaj. Miwej edemnub run wi aliapi ne focgieru mun teweave urhaoji lael zawewwu sazvoc. Nehtod daj viji beblimano uhazve akfouzu vijuma lepodfi kej fi vujmen kiratcij. Apigojef geabu kuca ar cuczizbah nodano ka tavkozaj vez ehzabe ingioja abortow ramlo nazike ke riker pihunhod uruzav.",
+    "bio": "Mek se jew reovo pi cohhivas ge bib le tetuh uko rude donigoj luju awpon. Poulu nunguwu awseh bu ij ibuzieti tel naoj nuema hog ufni jar ciolibem. Reket wezu fazude uztavji eso ozjevi vumucar roh etehonej jekawne miblimub miubhih cag."
+  },
+  "apiKey": "e8a4cd2f68040fa562b8452b1ea4e876c5754326e93e847015794ce64fd3d8ba",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
