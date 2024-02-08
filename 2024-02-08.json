@@ -1,0 +1,26 @@
+{
+  "name": "Gertrude Delgado",
+  "age": 18,
+  "address": {
+    "street": "Gini Plaza",
+    "city": "Kirceez",
+    "state": "AK",
+    "zip": "10112"
+  },
+  "contact": {
+    "phone": "(420) 691-5232",
+    "servicePhone": "800912554"
+  },
+  "birthday": "1990-03-13T04:16:41.169Z",
+  "ip": "47.65.37.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Vapjitej ces ol juffu zetberup fi rafzag mecwoz jot pe sapwi mamuz sepnura akiditta eru. Awa fa pubaku kocku zaj uta ilnoge bi luti mumatoj miw idasoweso or ro vam gohus za. Lu rilekjud co puf pev etigib vavjow emodufju nakavu da tewiv counto osu reelama zaifagov nu ri. Agu umuke ato ijirun bijpu agafibo ibeguvgoc ezja imo lotfufe kep wuvotweb tuwsehsan vobuzba rugawe. Tu til vo lemaiti du ehna zek mekwab dob ohapo nogrosar wudoige kif wepfubta kigobtew jocekow te.",
+    "bio": "Dal fa dedaec ses vob hukti en kah begi puf jaeb ovu fohamu tuz kebhimge. Nemenev gigi mehmahi jimkel numgovda gaspim cup fertonsac etfehij saifa hahsi tu. Baruhve rod folob gipa zon bakpopo fedjike tih egfobe romap roradlu pa aramuh upono alumuwel. Va rew wiklev fewfoumo mumopiv adnuhom paw depvo dolenic jew fub ojcireko wo kezidi doucauda."
+  },
+  "apiKey": "f9cbe00eef2c9abe7a9f101d28c9cb585a77eea0beceff3d2c3768977f2cbb6b",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
