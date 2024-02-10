@@ -1,0 +1,26 @@
+{
+  "name": "Vernon Haynes",
+  "age": 39,
+  "address": {
+    "street": "Soccaz Turnpike",
+    "city": "Kiczomi",
+    "state": "CA",
+    "zip": "96241"
+  },
+  "contact": {
+    "phone": "(819) 398-4606",
+    "servicePhone": "800732919"
+  },
+  "birthday": "2004-01-18T14:34:22.207Z",
+  "ip": "187.218.54.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Je tabo wog kijit ju mi gi ojbik baflakhe jufoiki pafova pitu jok se rah. Zewmon ohe fu omoozi es tevir uvdefmed voos niwha urfan zebtiv sagsoze le pivzuwa cobkajo. Agavoda foceef rotade lemmi bolnolbo leene ib ortuad monopus de damof ha rozcuv.",
+    "bio": "Ri odowoeb ip nemapa uzagauz gocew ibuzimlit vuc ag viw awonublo ficek edohofiv huhto in joshavzut. Opuje buh fi nakas kow linial tot dedpojbez ju mekop duade usi sekzulo sapacuaj he fodeuna nupeh zo. Ufabenso coseg openensu towo utabaus mavlankec kafa biku piaji ukfu mi puhenod lahebla."
+  },
+  "apiKey": "ff1cc5bee44ae9ca6cdbfd0ad6a199a4de012e8ddd8e431b94ee5054d8870960",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
