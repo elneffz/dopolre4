@@ -1,0 +1,26 @@
+{
+  "name": "Lou Warren",
+  "age": 43,
+  "address": {
+    "street": "Nufi Loop",
+    "city": "Gejali",
+    "state": "DE",
+    "zip": "03188"
+  },
+  "contact": {
+    "phone": "(600) 823-7076",
+    "servicePhone": "800791253"
+  },
+  "birthday": "1986-03-21T07:39:58.887Z",
+  "ip": "176.244.114.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Tukhe azames mohcuz vun peew vikiduagi vap bamhedwa ahuwapsa ler jejgod ge. Wev dawiru sin vood ri ugu koc ekpuz cu wufkor cawdagaf ahorazos dudziine wophu. Buvir opi jeb wib upkuhjof va ule egabew po olivizbih ami du mozuh pof fa dakasju. Juz dup dasdiv jon hubim ro edohaz zoj geswiw no kepakit jeasezi uhgilsur nuhat jiwodo.",
+    "bio": "Jebit pohooci uwubaimo fuwpuvun zujnuttar rodbajato upusu vigmufsis feh su niceije heocgi hodgarom. Ucajoche robma fu oruut nuccu ig viv bofarow jac iluaso dajpit de. Coik pi sujefu ehiba kungofi gulo losuhpop pinurobaj guh enubabvi lavma obagek alteod pa co bikpil."
+  },
+  "apiKey": "c044b302beb1cc7d61b3b4d18f9d5e0232b3637a137855f09af00301c4e4ed9e",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
