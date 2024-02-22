@@ -1,0 +1,26 @@
+{
+  "name": "Gregory Lindsey",
+  "age": 63,
+  "address": {
+    "street": "Uluho Loop",
+    "city": "Nejojgal",
+    "state": "RI",
+    "zip": "36668"
+  },
+  "contact": {
+    "phone": "(381) 644-9811",
+    "servicePhone": "800913313"
+  },
+  "birthday": "1999-08-19T01:33:32.422Z",
+  "ip": "68.53.146.101",
+  "foo": "bar",
+  "profile": {
+    "about": "No lu fizebeh pusa pa pinob ufeco labcuphim uba optip imab rom se silbed. Eve es hazha wiknoci lu kuizium vuujocu herih fin pekdeihe ne olcibov hedbi efa nebuw da vut muunufi. Wo vecep mar tal se iru cazsipa lemiwe zow ijolu lunke kocvafere osme gu tukrapav lununo.",
+    "bio": "Celaasa jivmip lissobruh hegteppo siwobof juk no dobove piglu kija reor si. Zewnefra sopperca ceege gudmagpe ulohev pupo sa zepoma termuto wa filjo ovvev zajzubim. Vauhi helac ruecmus cetoh uziec pidavme bul fukeus piclebzow kuzgi podaha kusub. Wula imadacfi hadtedad omapihup hu ci hi novose ji sul fehveru or."
+  },
+  "apiKey": "ff014235c3e00605246391842f1d0cc7934857da7a43e92325f6edf371a4a7af",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
