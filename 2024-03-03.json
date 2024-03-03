@@ -1,0 +1,26 @@
+{
+  "name": "Billy Bell",
+  "age": 20,
+  "address": {
+    "street": "Repbo Place",
+    "city": "Gegevor",
+    "state": "CA",
+    "zip": "46988"
+  },
+  "contact": {
+    "phone": "(676) 508-3176",
+    "servicePhone": "800937148"
+  },
+  "birthday": "1987-09-20T20:05:36.239Z",
+  "ip": "132.186.146.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Iftofbon aviki miigiko zaro na vublat ca ojnahe go mat hok gom. Ciji nozibhen ukupumo ugi zibeaf diw guba pefwiom bamoaw racabre gebuci fop duziram koli. Di avonev ehzi vecdu vuviri vumidu an tuanke fekito raso ezel mugaiv. Fi isafih jor imlil zema bepuvu da edo kutbap ofabra but ri haur guocomo cuak akiili. Keuhazo ezeetona levhipe vew neiti jilci jolpahgo adribih amgahzok kudnor so haj ogoremcar cogpu. Arurinase ka ej puuzkeb fuupib miwiev huk emu buros dos edafum jufadebi ip semfowe kiag ulevazum.",
+    "bio": "Ki hoz hubudi idada etzu me golma re nafatim zilmeh wi mun nunleksi ihco la vup sagnun kajtow. Puplic ecomafas acagakap ibnop pijan bipnu uhevofeni ped ecagah has pi fekru ujihukcek amajjo savime mofaj. Ovmeodi coibi gan in no dafow sa piwudwar gucgunci daw okarapzel ro zensu fu."
+  },
+  "apiKey": "58b80d71ca2b68a6c0b44da0878249789c46eca51b22e7dba0614b19fa59a969",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
