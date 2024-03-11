@@ -1,0 +1,26 @@
+{
+  "name": "Rodney Hansen",
+  "age": 40,
+  "address": {
+    "street": "Dunmeb Pike",
+    "city": "Zumuhohe",
+    "state": "AR",
+    "zip": "78438"
+  },
+  "contact": {
+    "phone": "(362) 738-1959",
+    "servicePhone": "800984686"
+  },
+  "birthday": "1991-08-27T22:58:12.910Z",
+  "ip": "11.172.72.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Izu momub cahmuwtol vi ror ehete hofjul jitvugo sujsozba awligo li tocef nuk vominunu otdi za gonkuviv. Lecsura izreep irme jane ap nidaur go rubwe putu fa utvic seprircaf. Moji upjewvu ihopikhez gadzatni vaho bama homul nuho halnotpig dogpabloj ketvefeh icpoptiw deh. Lakifcah ululo diug abojicu pah hawo fujwupdu nagimik nisonihec vikul epu bondal lev.",
+    "bio": "Dik civzo ki sueni fa ruvhi jofilal nig poonpu jihbono mokliv fegut pe aro. Vacote amedudco od gidwuzeh ju cimgo lindelaju zih ozkodig sa gazarve umjula lowhir. Maut vo zuv riudnoh vako livolkap win okitusiv le kelko wunpeiko gi cem ehecucnu jip ura ino."
+  },
+  "apiKey": "1feffe3ebff403c91cdee96b26f6ba1c5d6bbb979c98a94132c79440710ec006",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
