@@ -1,0 +1,26 @@
+{
+  "name": "Bess McDaniel",
+  "age": 19,
+  "address": {
+    "street": "Zovjev Square",
+    "city": "Hivsimu",
+    "state": "NC",
+    "zip": "03461"
+  },
+  "contact": {
+    "phone": "(220) 967-1421",
+    "servicePhone": "800841684"
+  },
+  "birthday": "2003-10-01T11:05:29.771Z",
+  "ip": "178.186.46.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Owaso cukabha ge loz bilba zibuv cutrorcek fecvilsi not ta ikiakure alor viw. Gehjaupe uw kuod si ej ilga ba letu pava ne rus ib. Kintef ruv siruru gosavik vikwe tondud hov ajiapa sec fec ojifuejo hof ezkout li uf cato no zisza.",
+    "bio": "Losceize bip lu cobcil ricralges petasuk solol zahur rub isvem mouta ubsene fiesalo lolso. Veepevur del waeduala uheso imupehiz ti rine fiw jag su tig ubuja ke jieni tipvego mu re zafma. Ibdurpuv ijho fe ne penac rec go ma nik citso rewzime us furis iciwuguj. Kisocki ge retov dogveh gas jebusva vemdukof ne cujed ukji ifniz mug tugov."
+  },
+  "apiKey": "a1f3e185c0a33d5d8c45d73fe0d657b29afee74fe178223971f5b3ed3e1c9225",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
