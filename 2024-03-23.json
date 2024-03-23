@@ -1,0 +1,26 @@
+{
+  "name": "Walter Frank",
+  "age": 33,
+  "address": {
+    "street": "Ricah Road",
+    "city": "Mettogi",
+    "state": "LA",
+    "zip": "08827"
+  },
+  "contact": {
+    "phone": "(368) 576-7371",
+    "servicePhone": "800656114"
+  },
+  "birthday": "1987-11-21T21:18:30.109Z",
+  "ip": "97.219.251.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubrah hokofus weh vi mewlajmud racfab copopzug agvu visawiko binisu nup unupuna upufinico suvazboc cafvuba zoj rihu habmiz. Vonatjo uno gekpow namdiwmes luk ulped bus imaci jucarke mosti zuwep fumi wosovon ecrehu ozi odnewuv. Zazli ti zeuve cob kufuc wemoroj pulizcov dumkidef guwan lemcal ban ahevasoc ahaci buovtav zumu iziajre dutku fiwvic.",
+    "bio": "Nakom ase uzi fazag gopwe kuzpodgud sumij feziz bawi nafefoh pigah dekuzdih ga jek. Egzot heir ro hukezop mi tur sov do potnek tofwivus zerazeko zuca tihsabe. Voc nuntib buzeci wupcomu wi feferzak rimasma nek kaj pob susuz jej mu ga kibriati pedze. Woh fubbo ropjigro jisehe dunmevvuw cabruc hojev hedla obuti etju ruka sodo esofog vog kofu. Loparjif fid met cunizpu hidet difguema javvuju fepnopab hutesi tit zawtud zedadat hazarjew kevu. Beba unala tej kowwam be sa babiw fej hic ta ce jan hopovju koladet ranbadmu agrakviz."
+  },
+  "apiKey": "e2aecd21e0ea93a8e33f0262a9ebe457a547f5f2096db8a2aed81c08542fb17f",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
