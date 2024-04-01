@@ -1,0 +1,26 @@
+{
+  "name": "Estelle Maldonado",
+  "age": 23,
+  "address": {
+    "street": "Muna Drive",
+    "city": "Zogamuem",
+    "state": "DC",
+    "zip": "59853"
+  },
+  "contact": {
+    "phone": "(765) 655-7142",
+    "servicePhone": "800745193"
+  },
+  "birthday": "1977-02-12T15:24:21.606Z",
+  "ip": "180.220.110.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Behofof lu kitumli dienu muwbumero omabirci lik jiham wohovu tiz goof cashon rocokru nikvotgij res gugozib. Gedi arpa lis guwotrif biw muz hozo zeffopvef badi kihgeksiw gelzula je mu jenu uvru. Tuop lifla jepoara jowoko tibudno armevpa ajnu kebki cerug ped dibsuloc cuzrur tutejheg necmaheb niohaak guhzipu tes api.",
+    "bio": "Bek gonodu te arujiv jupase iruce tu gadgat zacih juico ejroz wuvuju ducuv ziduzi lacu ukupik. Ig ecaatemu we tos hihzimi dokwaiz iwzeple acicowwez ib lib ekol cowovi obvevpo taihe azojedul fuji azosukam. Ka oc liwesgi doeh zuj eddapew wencotca ezsem us aro zosakbo kil rewamo ovocavi wefcuafe."
+  },
+  "apiKey": "895b8d7265abf2318d89bc91a81d3f09786faf8e15eff578f89d8b43b896bb05",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
