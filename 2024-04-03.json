@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Stevenson",
+  "age": 45,
+  "address": {
+    "street": "Fozad Extension",
+    "city": "Bujdettit",
+    "state": "DE",
+    "zip": "90171"
+  },
+  "contact": {
+    "phone": "(303) 699-3750",
+    "servicePhone": "800189327"
+  },
+  "birthday": "1978-06-28T01:43:35.460Z",
+  "ip": "95.18.138.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Hoku hokra lites bop nodtu iwoerga sef liril vi lu nuc ahurajeb uhiraklub akolul ze akopuuw jifruc zoho. Nad vasid juap muwicci visacwe cuw gurwe fubba ud honi gotihdan pajol hulzifto tel kizat du wiba ogciak. Ofi ruvif comuz lab nohabvo apuokuju lon rocma ure pogehkin itnubog omgim cocovaviw. Koene honeg vuabjip adu faawehu idicijgi jalesiv bedce as li ko abiivvur ha iwohabuf ovahar wifhanaja nigsehig.",
+    "bio": "Tuw kaspel nowjogek motizef osatefte wo cepu hub adepi jinwicu rijoko totwuh mimfaza wadgerva wihe. Lapriba dacu pipultog lusiuzi tah bikitiom udgaw bazmajgok nowihe gom ri sefulil tawraz lovekwoh moihovo ove. Uwbejos cemzumagi hih hasala ulu ul cez dol ro sigtegruj acoemob ure laruku ochepta weloh duzuwod. Gewocu lo unmof he popiob ol tizadpin josanova ijihed lukev get or ziduvopoz tofo bighij. Bewo mow balotu coha jul raw ujeci pepfi arvujnuf but fu vituji zu hebal."
+  },
+  "apiKey": "1a12e9de2383a79aa46e36fe57f92710c1df60c09ff7f807e9ae9cc7df628ddf",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
