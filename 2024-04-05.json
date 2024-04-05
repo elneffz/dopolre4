@@ -1,0 +1,26 @@
+{
+  "name": "Emma Torres",
+  "age": 51,
+  "address": {
+    "street": "Upbo Pass",
+    "city": "Mogbonec",
+    "state": "NY",
+    "zip": "99220"
+  },
+  "contact": {
+    "phone": "(808) 939-8075",
+    "servicePhone": "800281619"
+  },
+  "birthday": "1986-05-31T08:32:14.333Z",
+  "ip": "72.48.108.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuj imoozilok aluleob jevkevga fit ro lut nu ces farif maewogit ate ru vapkocse diwow vobop sunaid. Tazelduw giwilec upwin ankanmu nu hoz janhuc zipad we funbe emuno cani. Cuvedobum jaf ugu be dur inicara evjodura cebvitis omdu ehaidima tagi rikwopi tihor.",
+    "bio": "Osaritep rodiljoj azizi ti bam vut fonut vutu zahzu najgi hodiz bid. Do zahetzuh surfo ba hopre pod lahfu ovi hacus huavomi oguwup uca bo gi gutiji bobed tivape. Kisokor benkactek ufeba tebheaz zumcowev junveglen tik veiduve sotlaghep abimi vinpifwi curudid gofmuigu loat tinobi dilu ucuziblo. Dise muk pa aba nagehcob mojsi wepuk bo oz sa azmomho vuvepoge."
+  },
+  "apiKey": "3117d563b6868e56a3b15c6792c1a615f60a84e13da80239b749f986fb0de317",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
